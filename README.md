@@ -58,7 +58,6 @@ The dataset used in this project was sourced from Kaggle and includes:
 * Precautions
 
 ## ⚙️ Installation & Setup
-bash 
 ---
 git clone https://github.com/123DM-lab/health_care-chat-bot.git
 
