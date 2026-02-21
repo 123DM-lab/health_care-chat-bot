@@ -1,0 +1,48 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+healthcare_env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# CSV files (if dataset is large)
+# Uncomment below if dataset is large and not required to upload
+# data/
+# *.csv
+
+# Model files (if large)
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Build files
+build/
+dist/
+*.egg-info/
